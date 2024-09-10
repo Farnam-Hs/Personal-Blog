@@ -11,6 +11,7 @@
 ## 🎯 Overview
 
 This project is a web-based personal blog application built using Java Servlets, JSP, and Tomcat. It allows users to browse articles and provides an admin interface to add, edit, or delete blog posts. All articles are stored as JSON files in the filesystem.
+The image below illustrates the application design.
 <p align="center">
     <img src="images/design.png" alt="design"/>
 </p>
