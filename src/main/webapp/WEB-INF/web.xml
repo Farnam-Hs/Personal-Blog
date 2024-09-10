@@ -4,9 +4,8 @@
          xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_5_0.xsd"
          version="5.0">
 
-    <context-param>
-        <param-name>articlesDirectory</param-name>
-        <param-value>/articles</param-value>
-    </context-param>
+    <welcome-file-list>
+        <welcome-file>home</welcome-file>
+    </welcome-file-list>
 
 </web-app>
