@@ -68,7 +68,8 @@ http://localhost:8080/[Context-Path]/home
 
 ## 📘 Usage Example
 
-**1. Viewing Articles:** On the home page, all blog articles will be listed. Click on a title to view the full article.
+**1. Viewing Articles:** 
+- On the home page, all blog articles will be listed. Click on a title to view the full article.
 
 **2. Admin Actions:**
 - Navigate to the admin section using the designated admin URL ```/admin``` or click on the Login button.
