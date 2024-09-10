@@ -60,9 +60,9 @@ Start the Tomcat server
 
 ### 5. Access the Application
 Open a web browser and navigate to:
-```bash
-http://localhost:8080/[Context-Path]/home
-```
+
+```http://localhost:8080/[Context-Path]``` or ```http://localhost:8080/[Context-Path]/home```
+
 
 ---
 
