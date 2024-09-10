@@ -90,22 +90,22 @@ http://localhost:8080/[Context-Path]
 ## 🖼️ Screenshots
 
 **Home Page**
-<img src="images/home.png" alt="home"/>
+<img src="images/home.PNG" alt="home"/>
 
 **Article Page**
-<img src="images/article.png" alt="article"/>
+<img src="images/article.PNG" alt="article"/>
 
 **Login Page**
-<img src="images/login.png" alt="login"/>
+<img src="images/login.PNG" alt="login"/>
 
 **Admin Page**
-<img src="images/admin.png" alt="admin"/>
+<img src="images/admin.PNG" alt="admin"/>
 
 **New Article Page**
-<img src="images/add.png" alt="add"/>
+<img src="images/add.PNG" alt="add"/>
 
 **Edit Article Page**
-<img src="images/edit.png" alt="edit"/>
+<img src="images/edit.PNG" alt="edit"/>
 
 ---
 
