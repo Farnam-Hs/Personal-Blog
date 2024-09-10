@@ -29,11 +29,11 @@ This project is a web-based personal blog application built using Java Servlets,
 
 ## 🛠️ Technologies Used
 - Java 17
-- Servlets (Jakarta)
-- JSP (Jakarta Server Pages) Generated with ChatGPT
-- Gson (for handling JSON files)
-- Apache Tomcat
-- Maven
+- Servlets 5.0 (Jakarta)
+- JSP (Jakarta Server Pages) & JSTL (Jakarta Standard Tag Library) 3.0
+- Google Gson 2.11 (Handling JSON files)
+- Apache Tomcat 10.1
+- Maven 3.8.5
 
 ---
 
@@ -72,13 +72,13 @@ http://localhost:8080/[Context-Path]/home
 - On the home page, all blog articles will be listed. Click on a title to view the full article.
 
 **2. Admin Actions:**
-- Navigate to the admin section using the designated admin URL ```/admin``` or click on the Login button.
-- Login with the correct credentials to access admin actions. (Username: admin | Password: admin)
+- Navigate to the admin section using the designated admin URL ```/admin``` or click on the ```Login``` button.
+- Login with the correct credentials to access admin actions. (Username: ```admin``` | Password: ```admin```)
 
 **3. CRUD Operations:** 
 - **Add New Article:** Click on the ```+``` button in the admin section, fill in the article title, choose the publishing date, write the content, and ```Publish```.
-- **Edit Article:** Click on the edit button next to an article in the admin section, modify the title, content, or the publishing date and save.
-- **Delete Article:** Click the delete button in the admin section to remove an article.
+- **Edit Article:** Click on the ```Edit``` button next to an article in the admin section, modify the title, content, or the publishing date and ```Update```.
+- **Delete Article:** Click the ```Delete``` button in the admin section to remove an article.
 ---
 
 ## ⚠️ Error Handling
@@ -91,21 +91,27 @@ http://localhost:8080/[Context-Path]/home
 ## 🖼️ Screenshots
 
 **Home Page**
+
 <img src="images/home.PNG" alt="home"/>
 
 **Article Page**
+
 <img src="images/article.PNG" alt="article"/>
 
 **Login Page**
+
 <img src="images/login.PNG" alt="login"/>
 
 **Admin Page**
+
 <img src="images/admin.PNG" alt="admin"/>
 
 **New Article Page**
+
 <img src="images/add.PNG" alt="add"/>
 
 **Edit Article Page**
+
 <img src="images/edit.PNG" alt="edit"/>
 
 ---
