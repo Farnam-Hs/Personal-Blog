@@ -27,6 +27,34 @@ This project is a web-based personal blog application built using Java Servlets,
 
 ---
 
+## 🖼️ Screenshots
+
+**Home Page**
+
+<img src="images/home.PNG" alt="home"/>
+
+**Article Page**
+
+<img src="images/article.PNG" alt="article"/>
+
+**Login Page**
+
+<img src="images/login.PNG" alt="login"/>
+
+**Admin Page**
+
+<img src="images/admin.PNG" alt="admin"/>
+
+**New Article Page**
+
+<img src="images/add.PNG" alt="add"/>
+
+**Edit Article Page**
+
+<img src="images/edit.PNG" alt="edit"/>
+
+---
+
 ## 🛠️ Technologies Used
 - Java 17
 - Servlets 5.0 (Jakarta)
@@ -63,7 +91,6 @@ Open a web browser and navigate to:
 
 ```http://localhost:8080/[Context-Path]``` or ```http://localhost:8080/[Context-Path]/home```
 
-
 ---
 
 ## 📘 Usage Example
@@ -79,6 +106,7 @@ Open a web browser and navigate to:
 - **Add New Article:** Click on the ```+``` button in the admin section, fill in the article title, choose the publishing date, write the content, and ```Publish```.
 - **Edit Article:** Click on the ```Edit``` button next to an article in the admin section, modify the title, content, or the publishing date and ```Update```.
 - **Delete Article:** Click the ```Delete``` button in the admin section to remove an article.
+
 ---
 
 ## ⚠️ Error Handling
@@ -86,33 +114,6 @@ Open a web browser and navigate to:
 - **Unauthorized Access (403):** Attempting to access restricted URLs will result in a 403 Forbidden error.
 - **Not Found (404):** : Accessing non-existent pages or malformed URLs will result in a 404 Not Found error.
 - **Internal Server Error (500):** If an unexpected issue occurs on the server (e.g., failure in file operations or processing), a 500 Internal Server Error will be shown to the user.
----
-
-## 🖼️ Screenshots
-
-**Home Page**
-
-<img src="images/home.PNG" alt="home"/>
-
-**Article Page**
-
-<img src="images/article.PNG" alt="article"/>
-
-**Login Page**
-
-<img src="images/login.PNG" alt="login"/>
-
-**Admin Page**
-
-<img src="images/admin.PNG" alt="admin"/>
-
-**New Article Page**
-
-<img src="images/add.PNG" alt="add"/>
-
-**Edit Article Page**
-
-<img src="images/edit.PNG" alt="edit"/>
 
 ---
 
